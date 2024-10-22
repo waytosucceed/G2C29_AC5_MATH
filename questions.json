@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Saanvi picked some flowers, and Mateo picked the same number of flowers. Fill in the blank to make the statement equal. <br>3 - ___ = 4 - 2",
+        "options": [
+            "2",
+            "1",
+            "0",
+            "3"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Saanvi saw some butterflies, and Mateo saw a few more butterflies. Fill in the blank to make the statement equal. <br>8 - 3 = ___ - 4",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Saanvi sat for a little while on the garden bench, and Mateo sat for the same amount of time. Fill in the blank to make the statement equal. <br>9 - 3 = ___ - 0",
+        "options": [
+            "7",
+            "8",
+            "6",
+            "9"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Saanvi took some pictures, and Mateo took a few pictures too. Fill in the blank to make the statement equal. <br>5 - 5 = 7 - __",
+        "options": [
+            "5",
+            "7",
+            "2",
+            "4"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Saanvi spotted some birds, and Mateo spotted the same number of birds. Fill in the blank to make the statement equal. <br>12 - ___ = 17 - 7",
+        "options": [
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Saanvi picked some sunflowers, and Mateo picked the same number. Fill in the blank to make the statement equal. <br>___ - 4 = 16 - 12",
+        "options": [
+            "6",
+            "5",
+            "7",
+            "8"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Saanvi saw different types of flowers, and Mateo saw an equal amount. Fill in the blank to make the statement equal. <br>10 - ___ = 14 - 8",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "8"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Saanvi counted some trees, and Mateo counted the same number of trees. Fill in the blank to make the statement equal. <br>8 - ___ = 9 - 4",
+        "options": [
+            "5",
+            "4",
+            "3",
+            "6"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Saanvi drew some sketches, and Mateo drew the same number of sketches. Fill in the blank to make the statement equal. <br>___ - 7 = 15 - 4",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "18"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Saanvi noticed some people, and Mateo noticed the same number of people. Fill in the blank to make the statement equal. <br>___ - 1 = 16 - 3",
+        "options": [
+            "13",
+            "14",
+            "15",
+            "16"
+        ],
+        "correct": 1
+    }
+]
